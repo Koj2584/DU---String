@@ -1,0 +1,10 @@
+D:\Koj\Programování\C#\DU - String\DU - String\bin\Debug\DU - String.exe.config
+D:\Koj\Programování\C#\DU - String\DU - String\bin\Debug\DU - String.exe
+D:\Koj\Programování\C#\DU - String\DU - String\bin\Debug\DU - String.pdb
+D:\Koj\Programování\C#\DU - String\DU - String\obj\Debug\DU - String.csprojAssemblyReference.cache
+D:\Koj\Programování\C#\DU - String\DU - String\obj\Debug\DU___String.Form1.resources
+D:\Koj\Programování\C#\DU - String\DU - String\obj\Debug\DU___String.Properties.Resources.resources
+D:\Koj\Programování\C#\DU - String\DU - String\obj\Debug\DU - String.csproj.GenerateResource.cache
+D:\Koj\Programování\C#\DU - String\DU - String\obj\Debug\DU - String.csproj.CoreCompileInputs.cache
+D:\Koj\Programování\C#\DU - String\DU - String\obj\Debug\DU - String.exe
+D:\Koj\Programování\C#\DU - String\DU - String\obj\Debug\DU - String.pdb
